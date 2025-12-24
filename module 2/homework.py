@@ -1,6 +1,6 @@
 import turtle
 
-turtle.Screen().bgcolor("pink")
+turtle.Screen().bgcolor("light black")
 turtle.Screen().setup(500,500)
 square=turtle.Turtle()
 
